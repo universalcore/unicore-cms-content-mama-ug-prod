@@ -4,17 +4,19 @@
   "language": "swa_UG", 
   "title": "Umri wa miezi 7", 
   "primary_category": "c1faf79232a343fe9ec8daf661f42fcc", 
-  "created_at": "2015-02-17T12:08:38.522855+00:00", 
+  "created_at": "2015-02-17T12:08:38+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-17T12:08:38.523051+00:00", 
+  "modified_at": "2015-02-17T12:10:25.166341+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "ec96dd79ebe34fa0b7a463d658bb384a"
+  ], 
   "id": null, 
   "content": "Imeundwa na BabyCenter\r\n\r\nMtoto wako sasa ataanza kutaka kujilisha chakula. Labda atashika kijiko unachomlishia, au atachukua chakula kutoka kwenye sahani yako? Jaribu kuweka vipande vidogo cha chakula laini kwenye sahani yake. Atafurahia kukichukua na kukila! Kumbuka kwamba wasichana wanahitaji kiasi sawa cha chakula kama wavulana. \r\n\r\nMtoto wako anaweza kuwa na hamu kubwa ya chakula, lakini meno sio mengi. Anza na chakula anachoweza kutafuna kwa ufizi wake au anachoweza kutembeza kwa urahisi mdomoni mwake. \r\n\r\nKatika umri huu watoto huwa wadadisi. Anaweza kurusha vitu vya kuchezea au kuvuta nywele ya dadake! Mtoto wako anajaribu vitu tu, si utundu. Hatakumbuka vitu kwa muda mrefu, kwa hivyo kumuadhibu hakutamaanisha chochote kwake kwa sasa. Lakini anaweza kukengeushwa kwa urahisi. Kwa hivyo mwonyeshe kitu cha kuchezea au mwimbie wimbo ili aache kufanya mambo ambayo hutaki afanye.\r\n\r\nUsiwe na wasiwasi ikiwa ana mianya kati ya meno yake. Mianya hiyo kati ya meno ya mtoto wako huenda itafungika kufikia umri wa miaka mitatu, baada ya meno yake yote ya utotoni kuota. \r\n\r\nKwa sasa, mtoto wako anaweza kuwa na wasiwasi kuhusu wewe kuondoka. Amekuzoea sana kiasi kwamba kumwacha, hata kwa dakika moja, kunaweza kukamfanya alie. Hii ni kawaida, na kutengana naye kwa muda mfupi kutamsaidia mtoto wako kuzoeana na watu wengine. Muda si mrefu atatambua kwamba kila wakati huwa unamrudia.\r\n\r\nKwa sasa hisia za mtoto wako zinaanza kuwa wazi. Anaweza kuwapa busu akiwa mbali watu anaowajua. Anaanza pia kugundua hisia za watu wengine na kuziiga. Akimwona mtu akilia, anaweza pia kuanza kulia.\r\n", 
   "source": "7fd74f3809b6450896eff636df9329d0", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "umri-wa-miezi-7", 
   "uuid": "efc8b41b2c334385bf80d0e0b22804ca"
