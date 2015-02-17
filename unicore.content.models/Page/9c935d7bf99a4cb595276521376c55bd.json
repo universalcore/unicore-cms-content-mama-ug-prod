@@ -1,0 +1,29 @@
+{
+  "subtitle": "Your baby can understand words!", 
+  "description": "Your baby can understand words!", 
+  "language": "swa_UG", 
+  "title": "Umri wa miezi 10", 
+  "primary_category": "c1faf79232a343fe9ec8daf661f42fcc", 
+  "created_at": "2015-02-17T12:16:01.381655+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-17T12:16:01.381861+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Imeundwa na BabyCenter\r\n\r\nMtoto wako anaanza kuelewa maneno na misemo rahisi. Jaribu kurudia maneno yake, ukitumia lugha ya watu mzima. \r\n\r\nPolepole, atajifunza kujitegemea, na atapunguza kulia unapomwacha. Lakini, wakati mwingine, kumuacha kutakuwa kuchungu na atalia! Ikiwa ana kitu kilicho na harufu yako, kama vile nguo ulizokuwa umevaa, kitasaidia kumtuliza. \t\r\n\r\nKatika umri huu, mtoto wako anaweza kuketi bila wasiwasi na anaweza kutembea akiwa anajishikilia kwenye samani. Anaweza hata kuachilia kwa muda mfupi na akasimama bila kujishikilia, au hata apige hatua chache ukimshikilia mikono yake.\r\nKatika umri huu, mtoto wako atajifunza kujilisha kwa mikono mlo wote. Atataka kunywa kutoka kwenye kikombe. Hii ni stadi mpya, na atahitaji kufanya mazoezi kwa miezi kadhaa ili azoee! \r\nMtoto wako anaweza kuelewa maelekezo rahisi sasa. Lakini haimaanishi atakuwa akifuatilia neno 'hapana' kila wakati! Ataelewa neno 'hapana' vyema zaidi ikiwa linatumiwa hasa kumsaidia kujua tofauti ya jambo zuri na baya, na hali salama na hatari.\r\n", 
+  "source": "3f7b0961e454472e93b956b95d1240de", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "umri-wa-miezi-10", 
+  "uuid": "9c935d7bf99a4cb595276521376c55bd"
+}
