@@ -4,17 +4,19 @@
   "language": "swa_UG", 
   "title": "Umri wa miezi 8", 
   "primary_category": "c1faf79232a343fe9ec8daf661f42fcc", 
-  "created_at": "2015-02-17T12:10:16.881753+00:00", 
+  "created_at": "2015-02-17T12:10:16+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-17T12:10:16.881971+00:00", 
+  "modified_at": "2015-02-17T12:11:52.021752+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "efc8b41b2c334385bf80d0e0b22804ca"
+  ], 
   "id": null, 
   "content": "Imeundwa na BabyCenter\r\n\r\nKwa sasa, anaweza kuwa ameanza kutambaa, au kujiburuza kwa makalio yake. Mtoto wako anapoweza kujisogeza, ataanza kugonga vitu na kuanguka. Hii ni sehemu ya kukua. Furahia kumtazama akichunguza lakini hakikisha nyumba yako ni salama iwezekanavyo.\r\n\r\nMtoto wako anajifunza kuhusu vitu kwa kuvitikisa, kuvigonga, kuviangusha, na kuvirusha. Anajifunza kuhusu kile anachoweza kukifanyia kitu. \r\n\r\nMtoto wako ataanza kuonesha kuvutiwa na vitu unavyotumia. Polepole, ataanza kutumia vitu ipasavyo. Unaweza kumpata akijaribu kuchana nywele zake au kunywa kwa kutumia kikombe.\r\n\r\nMtoto wako anaweza kuona vyema zaidi sasa. Anakaribia kuona vizuri kama wewe. Sasa anaweza kuwatambua watu na vitu chumbani. Anaweza kuona kitu cha kuchezea upande mwingine wa chumba na atajaribu kutambaa kukielekea. Macho yake yamekaribia pia kupata rangi yake ya mwisho, ingawa unaweza kuona mabadiliko madogo baadaye.\r\n\r\nHivi karibuni, mtoto wako ataanza kusimama na kutembea chumbani akiwa amejishikilia kwenye ukuta na samani. \r\n", 
   "source": "7f7f87aee5cd46d79d3c25912d9efb69", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "umri-wa-miezi-8", 
   "uuid": "9458646b194a4d98963bedb2804ac5ed"
