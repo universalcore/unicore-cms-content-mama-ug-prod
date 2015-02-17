@@ -4,17 +4,19 @@
   "language": "swa_UG", 
   "title": "Umri wa miezi 2", 
   "primary_category": "c1faf79232a343fe9ec8daf661f42fcc", 
-  "created_at": "2015-02-17T11:52:47.372224+00:00", 
+  "created_at": "2015-02-17T11:52:47+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-02-17T11:52:47.372555+00:00", 
+  "modified_at": "2015-02-17T11:54:37.437254+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "b79779fc7a8a40d7a8c97ad6c96f2740"
+  ], 
   "id": null, 
   "content": "Imeundwa na BabyCenter\r\n\r\nMtoto wako ana nguvu zaidi sasa. Anaweza kuinua kichwa chake juu kwa sekunde chache. \r\n\r\nSasa anaweza kuangalia vyema zaidi kwa macho yake na kuona kwake kunaendelea kuwa bora. Unaweza kumwona mtoto wako akiangalia mikono yake. Anaanza kuelewa kuwa ni mkono wake na anaweza kuutumia. Hivi karibuni ataanza kuelekeza mikono kushika vitu. Pia anasikiliza vizuri zaidi, na anaelewa wapi sauti zinapotoka. Unaweza kumwona akigeuza kichwa chake kuelekea upande wa sauti.\t\r\n\r\nKwa sasa, utagundua mtoto wako anakaa macho kwa muda mrefu wakati wa mchana, na ana nyakati maalumu anazotaka kucheza. Anaanza kutofautisha usiku na mchana.\t\r\n\r\nHivi karibuni, ataanza kunyoosha mikono na miguu yake. Mpe mtoto wako nafasi ya kutosha ya kujinyoosha. Tandika blanketi kwenye sakafu na umwache kujisongesha juu yake. Ikiwa amelala kifudifudi, anaweza kuanza kusukuma kwa miguu yake. Hii husaidia kuimarisha misuli yake inayokua.\r\n\r\nUnaweza kufikiria mtoto wako ni mchanga sana kuimbiwa au kuzungumziwa, lakini ni vyema ukifanya hivyo. Kukusikia ukimwimbia au ukimzungumzia kutamsaidia kujifunza kusema.\r\n\r\nAkitazama upande mwingine au akiacha kuwa makini unapomwimbia au kumzungumzia, jaribu kitu kingine au mpe muda apumzike.\r\n", 
   "source": "b9ad19a5ea794c20879988bc48fba7a1", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "umri-wa-miezi-2", 
   "uuid": "6736cfcffd094731bbfddebfb4416764"
