@@ -1,0 +1,29 @@
+{
+  "subtitle": "Where to have my baby?", 
+  "description": "A health facility is safest", 
+  "language": "eng_GB", 
+  "title": "Where to have my baby?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-05-18T09:33:18.607093+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-18T09:33:18.607265+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nAs your baby\u2019s arrival time gets closer, it is time to make plans. Your health worker may have ideas to help you plan.\r\n\r\nA health facility is the safest place to have your baby. Work out how long it will take to get there. Talk with your family about transport and decide who you will have with you. Choose someone you trust.\r\n\r\nYou should give birth in a health facility, where it is safe for you and your baby. \r\n\r\nIf your baby comes too quickly, so you cannot get to a health facility in time:\r\n\r\n\u2022\tMake sure your family knows how to contact your health worker. It is vital to have a skilled attendant, who may have a birth kit. It will contain a plastic sheet, gloves, clean string and tools for cutting your baby's cord.\r\n\r\n\u2022\tIt is best to buy or prepare your own birth kit. The health facility may give you a mama kit (birth kit) free of charge at the antenatal clinic. \r\n\r\n\u2022\tIf you cannot get a birth kit, buy 7 pairs of gloves, 2 plastic sheets, at least 4 baby\u2019s cloths, a sterile razor blade, 2 clean strings, a roll of cotton wool, a roll of gauze and a cotton cloth for mother (Lesu)\r\n\r\n\u2022\tYour attendant must wash her hands and you must wash between your legs. Get plenty of clean, safe, boiled water and soap ready.\r\n\u2022\t\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "where-have-my-baby", 
+  "uuid": "6b257eedf650415e811d08c81859758e"
+}
