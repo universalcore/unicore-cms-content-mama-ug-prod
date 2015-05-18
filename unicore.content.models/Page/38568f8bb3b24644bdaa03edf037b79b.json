@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": " Immunisation protects your baby from diseases", 
+  "language": "eng_GB", 
+  "title": "Why get him immunised?", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-05-18T11:20:17.444267+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-18T11:20:17.444475+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nGetting your baby immunised is one of the best things you can do as a mother. \r\n\r\nRemember: you and your baby need to get immunised before you get sick. An immunisation cannot cure the disease once it has started.\r\n\r\nIf you and your baby are immunised, it means that you can fight serious illnesses if you come into contact with them. You cannot get immunised if you are already sick, so do it when you are both well.\r\n\r\nImmunisation helps your baby to fight off some of the most dangerous illnesses. This will protect you both from suffering and distress. No mother likes seeing her baby sick. \r\n\r\nYour baby needs to get immunised while he is well and it is important that you get it done at the right time.\r\n\r\nYour baby will need more than 1 dose of some vaccines. After the birth, you will be given an immunisation schedule for your baby. Ask the health worker to explain to you when your baby needs his immunisations.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-get-him-immunised", 
+  "uuid": "38568f8bb3b24644bdaa03edf037b79b"
+}
