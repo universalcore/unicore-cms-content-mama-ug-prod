@@ -1,17 +1,17 @@
 {
-  "subtitle": " I can feel my baby move!", 
+  "subtitle": "Notice when your baby kicks", 
   "description": "Notice when your baby kicks\r\n", 
   "language": "eng_GB", 
   "title": " I can feel my baby move!", 
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-05-18T08:38:03+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-19T09:30:07.406422+00:00", 
+  "modified_at": "2015-05-19T12:54:55.555711+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
