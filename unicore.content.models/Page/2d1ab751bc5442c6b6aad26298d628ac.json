@@ -6,16 +6,15 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-05-18T08:41:41+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-30T11:23:38.455629+00:00", 
+  "modified_at": "2015-11-26T10:25:42.720268+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "6e85f9dd577641958d0a23209aef19a6", 
     "da6c42f1b7924a0d94f8d47c4ad63372", 
     "5de98f842299401da6a8999442958a07"
   ], 
@@ -26,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 81, 
+  "position": 82, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "your-body-after-miscarriage", 
   "uuid": "2d1ab751bc5442c6b6aad26298d628ac"
