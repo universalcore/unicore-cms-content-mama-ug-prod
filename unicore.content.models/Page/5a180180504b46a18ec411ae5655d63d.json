@@ -6,17 +6,17 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-05-18T09:09:41+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-30T11:57:05.722495+00:00", 
+  "modified_at": "2015-11-26T10:35:50.784951+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "86279bc81dfa44c1af1de44a2126a836", 
-    "66e17d04901141268195b9e2636c4a77"
+    "66e17d04901141268195b9e2636c4a77", 
+    "86279bc81dfa44c1af1de44a2126a836"
   ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nBad or stale food can make you sick. Try to cook fresh meals every day. Keep your cooking and eating area clean and store food in a cool, dry place.\r\n\r\n\u2022\tCook all meat and chicken well, until it has no pink bits.\r\n\r\n\u2022\tCook eggs well, until they are firm. Boil milk to kill any germs.\r\n\r\n\u2022\tIf you get your food from food stalls, select stalls with clean work areas. Make sure that the stall you choose is popular, so that you can be sure that food has not been sitting out for too long and has been safe for others. \r\n\r\n\u2022\tWash your hands with soap before you prepare meals, after using the toilet and after handling animals.\r\n\r\n\u2022\tWash all dishes and cooking areas with soapy water to get rid of any food remains.\r\n\r\nIf you have sores or cuts on your hands, keep them clean and covered with a clean cloth.\r\n\r\nKeep animals away from the cooking area. Animals, especially flies, cockroaches and rats, can spread germs and make you sick.\r\n", 
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 65, 
+  "position": 66, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-cook-food-safely", 
   "uuid": "5a180180504b46a18ec411ae5655d63d"
