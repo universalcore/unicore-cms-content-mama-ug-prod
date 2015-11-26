@@ -6,16 +6,15 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-05-18T09:50:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-30T12:09:17.084702+00:00", 
+  "modified_at": "2015-11-26T10:54:36.518761+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "6e85f9dd577641958d0a23209aef19a6", 
     "80bcd31cf13d4a91a870c0c2b5cdd5be", 
     "3de60ea37f324aafad1e31499d331598"
   ], 
@@ -26,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 46, 
+  "position": 47, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "your-first-milk-best", 
   "uuid": "c4710bc5da3c42dfaa1ca40265bac0b0"
