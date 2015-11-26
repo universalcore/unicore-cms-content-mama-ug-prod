@@ -6,16 +6,15 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-05-18T08:34:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-30T11:19:37.643343+00:00", 
+  "modified_at": "2015-11-26T10:22:40.139943+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "6e85f9dd577641958d0a23209aef19a6", 
     "5e321f5bed68493ea14fec26a41c500e", 
     "08a47e9a59874ffa996c1caeef14786f", 
     "2cf49a1ac232453f998216f7509242bc", 
@@ -29,7 +28,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 89, 
+  "position": 90, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "what-high-blood-pressure", 
   "uuid": "5d0424519eda434caca50c33ce891498"
