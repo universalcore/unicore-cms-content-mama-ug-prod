@@ -6,16 +6,15 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-05-18T10:28:56+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-30T12:19:44.113583+00:00", 
+  "modified_at": "2015-11-26T11:55:50.435144+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "6e85f9dd577641958d0a23209aef19a6", 
     "bc278694a14d4c75b3e5947307fb766f", 
     "e8a96a371a704645a33b54528bb991df"
   ], 
@@ -26,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 24, 
+  "position": 25, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "my-baby-has-diarrhoea", 
   "uuid": "4224b38d79e249b4aef4e7fd010e5e6a"
