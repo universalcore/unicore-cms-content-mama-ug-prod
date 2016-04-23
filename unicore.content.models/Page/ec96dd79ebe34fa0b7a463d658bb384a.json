@@ -6,17 +6,17 @@
   "primary_category": "c1faf79232a343fe9ec8daf661f42fcc", 
   "created_at": "2015-02-17T12:00:43+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-07T08:15:33.730983+00:00", 
+  "modified_at": "2016-04-23T11:31:16.415889+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "ca2ef813e4504a04afc7960d0bd63c7e", 
-    "efc8b41b2c334385bf80d0e0b22804ca"
+    "efc8b41b2c334385bf80d0e0b22804ca", 
+    "ca2ef813e4504a04afc7960d0bd63c7e"
   ], 
   "id": null, 
   "content": "Imeundwa na BabyCenter\r\n\r\nMtoto wako yuko tayari kuanza kula vyakula vya familia pamoja na maziwa anayonyonya! Anaweza kula kiasi kidogo tu cha chakula mwanzoni: kijiko kimoja kinatosha. Atafurahia chakula cha familia kilichopondwa. Keti ukiwa unamwangalia na umpe chakula laini kwenye kidole chako safi au kwenye kijiko. Huenda ikamchukua muda kujua jinsi ya kusogeza chakula kwa ulimi wake na kukimeza. Kuwa na subira. Atajifunza. \r\n\r\nAnza kwa kumpa chakula kilichopondwa mara moja kwa siku. Kisha mara mbili kwa siku na kisha mara tatu kwa siku. Anaweza akataka kunyonya maziwa kabla ya chakula kilichopondwa, na kunyonya maziwa tena baada ya chakula kilichopondwa. \r\n\r\nHuu unaweza kuwa mwezi ambao mtoto wako ataota jino lake la kwanza. Kwa kawaida mojawapo ya meno ya chini ya mbele ndiyo huwa ya kwanza kuota. \r\n\r\nAnaweza kuanza kutumia mkono mmoja zaidi ya mwingine. Kisha anaweza kubadilishana mikono. Lakini hutajua kama yeye ni mtu wa mkono wa kulia au wa kushoto hadi afikishe umri wa miaka miwili au mitatu. Mwache ashikilie kitu kidogo na akipitishe kutoka mkono mmoja hadi mwingine. Hili litamsaidia kuendeleza ustadi wake.\r\n\r\nMtoto wako inawezekana sasa anajishughulisha zaidi, na atafurahia kukaa na watoto wengine!\r\n\r\nJe, mtoto wako anapenda kitu fulani au kitu fulani cha kuchezea? Ikiwa ndivyo, hivi karibuni hataweza kwenda mahali popote bila kitu hicho. Hili ni la kawaida, na dalili ya mtoto wako kukuza kujitegemea, kwa sababu anaweza kutumia kitu cha kuchezea au kitambaa kwa uthibitisho badala yako.\r\n", 
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 107, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "umri-wa-miezi-6", 
   "uuid": "ec96dd79ebe34fa0b7a463d658bb384a"
