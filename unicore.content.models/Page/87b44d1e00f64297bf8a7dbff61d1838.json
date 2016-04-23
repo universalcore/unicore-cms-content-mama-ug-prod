@@ -6,17 +6,17 @@
   "primary_category": "c1faf79232a343fe9ec8daf661f42fcc", 
   "created_at": "2015-02-17T11:57:03+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-07T08:15:13.471737+00:00", 
+  "modified_at": "2016-04-23T11:31:16.563431+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "8461ab9073ea42ebb1cb7bdd7c5e4afd", 
-    "ca2ef813e4504a04afc7960d0bd63c7e"
+    "ca2ef813e4504a04afc7960d0bd63c7e", 
+    "8461ab9073ea42ebb1cb7bdd7c5e4afd"
   ], 
   "id": null, 
   "content": "Imeundwa na BabyCenter\r\n\r\nMtoto wako anabadilika haraka. Anaweza kutoa sauti za kawaida. Anaweza hata kusema kitu kinachosikika kama 'Ma-ma' mwezi huu! Usiwe na wasiwasi asipofanya hivyo. Watoto wote hukua kwa kasi tofauti. \r\n\r\nHadi sasa, amekuwa akihitaji uwepo wako muda wote. Sasa wakati mwingine anaweza kufurahia kujichekesha mwenyewe. Unaweza kumkuta akichezea mikono na miguu yake kwa furaha! \r\n\r\nKatika umri huu, ni vyema kwa mtoto wako kuwa na wapendwa au marafiki wanaoaminika. Anavyokua, mtoto wako atahitaji kujifunza stadi za kijamii na jinsi ya kuhusiana na watu wengine. Familia yako itafurahia kumkumbatia! Unaweza kumkumbatia mara nyingi unaporudi.\t\r\n\r\nIngawa kulia ndiyo njia bora ya mtoto wako ya mawasiliano, anapata pia kuwa na hali ya ucheshi. Cheza naye mchezo wa kuficha uso. Angalia kama atacheka unapofichua uso wako kutoka chini ya blanketi. \r\n\r\nKatika umri huu, ikiwa amelala kifudifudi, anaweza kuinua kichwa na mabega yake, akitumia mikono yake kujiinua. Mtoto wako anaweza hata kujibiringisha kutoka upande wa mbele na kulalia mgongo wake. Mtie moyo kwa kutingisha kitu cha kuchezea upande ambao huwa anajibiringishia. Piga makofi na utabasamu anapofanya hivyo!\r\n", 
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 109, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "umri-wa-miezi-4", 
   "uuid": "87b44d1e00f64297bf8a7dbff61d1838"
